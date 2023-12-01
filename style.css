@@ -1,0 +1,117 @@
+@media only screen and (max-width: 3000px) {
+  body {
+    background-color: rgb(158, 68, 68);
+  }
+  .countainer {
+    height: 80vh;
+    width: auto;
+    border: solid 2px black;
+    background-image: url("https://staticg.sportskeeda.com/editor/2022/10/6d85a-16665487620575-1920.jpg");
+    background-size: cover;
+  }
+  .p {
+    display: none;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .p2 {
+    display: none;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .p3 {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .image2 {
+    height: 200px;
+  }
+
+  .card {
+    height: 500px;
+    width: 200px;
+  }
+
+  .ndcontainer {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .countainer {
+    width: auto;
+    border: solid 2px black;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32036954-8917-4aeb-a3a3-273565e7bf42/deuqkat-512bfec2-3588-428b-b704-06e07ab7ddb6.jpg/v1/fill/w_840,h_951,q_70,strp/zoro_by_darkeyez07_deuqkat-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQzMCIsInBhdGgiOiJcL2ZcLzMyMDM2OTU0LTg5MTctNGFlYi1hM2EzLTI3MzU2NWU3YmY0MlwvZGV1cWthdC01MTJiZmVjMi0zNTg4LTQyOGItYjcwNC0wNmUwN2FiN2RkYjYuanBnIiwid2lkdGgiOiI8PTEyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0gf3KXN1GdfbUXPxs14uA4loAF8fdL7oqDMZk0bMg6A");
+    background-size: cover;
+    border-radius: 50px;
+  }
+  .p {
+    display: none;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .p2 {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .p3 {
+    display: none;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .image2 {
+    height: 200px;
+  }
+
+  .card {
+    height: 500px;
+    width: 200px;
+  }
+
+  .ndcontainer {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .countainer {
+    border: solid 2px black;
+    background-image: url("https://i.pinimg.com/736x/32/07/c0/3207c0ae27d51f916eb4ee901e1faacc.jpg");
+    background-size: cover;
+    border-radius: 50%;
+  }
+  .p {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .p2 {
+    display: none;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .p3 {
+    display: none;
+    text-align: center;
+    font-size: xx-large;
+  }
+
+  .image2 {
+    height: 200px;
+  }
+
+  .card {
+    height: 500px;
+    width: 200px;
+  }
+
+  .ndcontainer {
+    display: block;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+}
